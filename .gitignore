@@ -10,7 +10,7 @@ apps/*.apk
 *.iws
 *.iml
 *.ipr
-
+.vscode
 # C extensions
 *.so
 
